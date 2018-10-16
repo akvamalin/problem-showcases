@@ -1,0 +1,10 @@
+{
+  "name": "some-cool-library-requires-package-json",
+  "version": "1.0.0",
+  "description": "Useless library showing its version",
+  "license": "MIT",
+  "main": "src/index.js",
+  "files": [
+    "src"
+  ]
+}
