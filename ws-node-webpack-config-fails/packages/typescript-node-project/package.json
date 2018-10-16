@@ -1,9 +1,10 @@
 {
   "name": "typescript-node-project",
   "version": "1.0.0",
-  "main": "index.js",
+  "main": "dist/index.js",
   "license": "MIT",
   "scripts": {
+    "start": "node dist/index.js",
     "build": "webpack-cli",
     "watch": "webpack-cli -w"
   },
