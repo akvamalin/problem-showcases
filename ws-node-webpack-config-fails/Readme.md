@@ -10,5 +10,3 @@ Key notes:
 5. But package.json path is now not the correct one or missing.
 
 TODO: Describe it in details
-
-(Took over 6 hours for me to find that :()
